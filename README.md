@@ -1,6 +1,7 @@
 # FrameX - Custom Java Swing Window Framework
 
 FrameX is a lightweight Java Swing framework for creating modern, customizable undecorated windows with built-in title bar controls, resizing, and drag-to-move functionality.
+![FrameX Preview](src/main/resources/img.png)
 
 ## Features
 
